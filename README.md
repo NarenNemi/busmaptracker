@@ -4,6 +4,7 @@ This is my bus map tracker where I use the mapbox api to power the application's
 
 I plan to later on have this tracker show the paths in my own city of Laval instead of the Boston location its currently tracking.
 
+To use this application simply download all the files then open the index.html file.
 
 ## License
 
